@@ -12,7 +12,7 @@
       "@type": "@id"
     }
   },
-  "@id": "enzml:EnzymeMLDocument/427b7c69-33e9-498b-b04b-5c6c10294947",
+  "@id": "enzml:EnzymeMLDocument/26c0601c-db40-438b-be8a-095ce01aad92",
   "@type": [
     "enzml:EnzymeMLDocument"
   ],
@@ -45,7 +45,7 @@
           "@type": "@id"
         }
       },
-      "@id": "enzml:Protein/67b81ebf-9499-4a1e-81a2-03e58ca18cd1",
+      "@id": "enzml:Protein/82e57d55-c1bd-4efc-927b-9e3b1eae1a6c",
       "@type": [
         "enzml:Protein",
         "OBO:PR_000000001"
@@ -133,7 +133,7 @@
           "@type": "@id"
         }
       },
-      "@id": "enzml:Measurement/156c982b-7361-4563-ad3c-756cb4d3dbbe",
+      "@id": "enzml:Measurement/20630707-f7f5-4cba-b984-4104102bc20e",
       "@type": [
         "enzml:Measurement"
       ],
@@ -149,7 +149,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/bd89a5c3-a2d9-4014-9ffa-57d25a30538c",
+          "@id": "enzml:MeasurementData/47707182-41c7-4a6a-9a91-5f70b823b498",
           "@type": [
             "enzml:MeasurementData"
           ],
@@ -200,7 +200,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/bb57cf95-71f9-49a7-98f4-4ae039bd0509",
+          "@id": "enzml:MeasurementData/7f6059ab-b368-4c4a-b229-7eff7cad8aef",
           "@type": [
             "enzml:MeasurementData"
           ],
@@ -267,7 +267,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/0150cc44-58b4-4e43-874a-e7fb3df12488",
+          "@id": "enzml:MeasurementData/36f1f9e5-f81e-4cbf-b0f9-589bf46347d7",
           "@type": [
             "enzml:MeasurementData"
           ],
@@ -354,7 +354,7 @@
           "@type": "@id"
         }
       },
-      "@id": "enzml:Measurement/9e0e5f40-2a13-4fc1-88f8-6ba4c41d1c1b",
+      "@id": "enzml:Measurement/107f415b-01d3-41a4-9a7c-e1c49f4aee27",
       "@type": [
         "enzml:Measurement"
       ],
@@ -370,7 +370,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/bdf32ef6-5aaa-4e71-a73e-eb72b97ac2ff",
+          "@id": "enzml:MeasurementData/56bf09e7-ccb2-4fe4-9e56-f43fd9f305b5",
           "@type": [
             "enzml:MeasurementData"
           ],
@@ -437,7 +437,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/d578c1d0-e6f1-4393-9bdf-46df7efc1c5d",
+          "@id": "enzml:MeasurementData/365f2aa5-5e3f-4901-8c63-f4f8b4b82786",
           "@type": [
             "enzml:MeasurementData"
           ],
@@ -504,7 +504,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/c705d7bd-5cd5-4c0e-acc3-ddcc210d79bb",
+          "@id": "enzml:MeasurementData/e5da05ff-e8aa-415d-b971-19035fdc3aa8",
           "@type": [
             "enzml:MeasurementData"
           ],
@@ -575,7 +575,7 @@
           "@type": "@id"
         }
       },
-      "@id": "enzml:Measurement/3ffcf871-eb2f-47de-b66d-21c976e3b374",
+      "@id": "enzml:Measurement/26104100-5311-40ca-be4d-1b77660334e8",
       "@type": [
         "enzml:Measurement"
       ],
@@ -591,7 +591,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/cd9e6bbb-273e-4ccf-b4b9-a79540383f47",
+          "@id": "enzml:MeasurementData/03617c15-425a-48e3-9ed6-1a1df7ca71c7",
           "@type": [
             "enzml:MeasurementData"
           ],
@@ -658,7 +658,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/33aba7e6-1a5a-4e0c-8a22-3a097a58f391",
+          "@id": "enzml:MeasurementData/cffce250-1f9f-403f-a886-a34fd2f6287a",
           "@type": [
             "enzml:MeasurementData"
           ],
@@ -725,7 +725,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/effcd5e1-98ca-441e-8b47-4463bffc61aa",
+          "@id": "enzml:MeasurementData/ffb30d0d-8594-4d7c-8520-da33ddd77018",
           "@type": [
             "enzml:MeasurementData"
           ],
@@ -796,7 +796,7 @@
           "@type": "@id"
         }
       },
-      "@id": "enzml:Measurement/064042ed-cc8f-49b6-9e83-7c8d0346a3fd",
+      "@id": "enzml:Measurement/dd9f81b0-43fe-48d2-b8c6-b81d3994d144",
       "@type": [
         "enzml:Measurement"
       ],
@@ -812,7 +812,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/fa96664e-361e-4aaf-9345-48df6adffdf8",
+          "@id": "enzml:MeasurementData/d63a826c-73a0-4a69-99f1-98106a8b7521",
           "@type": [
             "enzml:MeasurementData"
           ],
@@ -879,7 +879,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/a40f30f1-4b83-4045-96b4-3255600aff15",
+          "@id": "enzml:MeasurementData/30708565-5ccd-4526-91ed-b6cd38d12d47",
           "@type": [
             "enzml:MeasurementData"
           ],
@@ -946,7 +946,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/351a55d2-2b36-422b-8237-e1f6070026bc",
+          "@id": "enzml:MeasurementData/86ca3e9b-c5c3-49e4-9b08-a189f6ac05cb",
           "@type": [
             "enzml:MeasurementData"
           ],
@@ -1017,7 +1017,7 @@
           "@type": "@id"
         }
       },
-      "@id": "enzml:Measurement/052b826e-34f1-4962-b6b4-f90cce7290d7",
+      "@id": "enzml:Measurement/ccc2acca-c959-4880-9dcf-89f1b118f9ca",
       "@type": [
         "enzml:Measurement"
       ],
@@ -1033,7 +1033,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/3e53ad86-649a-4a04-bf98-812881d7738a",
+          "@id": "enzml:MeasurementData/c3547b0b-f9d1-4ac1-873f-19888f1daf7e",
           "@type": [
             "enzml:MeasurementData"
           ],
@@ -1100,7 +1100,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/8b42f10d-03b5-42bb-8401-2cc45b13a07c",
+          "@id": "enzml:MeasurementData/2305439d-fc5e-4c3c-92a8-fe34596f6b05",
           "@type": [
             "enzml:MeasurementData"
           ],
@@ -1167,7 +1167,7 @@
               "@type": "@id"
             }
           },
-          "@id": "enzml:MeasurementData/801816e1-cf51-43f2-8599-ef3b4b4ffa8a",
+          "@id": "enzml:MeasurementData/17f6a319-bee4-40ac-a03d-64e7cf15b50d",
           "@type": [
             "enzml:MeasurementData"
           ],
