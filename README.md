@@ -15,6 +15,27 @@ The `data/` directory contains HPLC experimental data organized as follows:
 - **`proteins/`** - Protein definitions (SAHH enzyme)
 - **`enzymeml.json`** - Complete experimental metadata in EnzymeML format
 
+## Installation
+
+This project uses [**uv**](https://docs.astral.sh/uv/) for reproducible dependency management.
+
+1. Install uv  
+  ```bash
+  curl -LsSf https://astral.sh/uv/install.sh | sh
+  # or with pipx:
+  pipx install uv
+  ```
+
+2. Install dependencies  
+  ```bash
+  uv sync --frozen
+  ```
+
+3. activate the virtual environment
+  ```bash
+  source .venv/bin/activate
+  ```
+
 ## 🧪 Notebook 1: Calibration Analysis (`1-calibration.ipynb`)
 
 This notebook introduces participants to the fundamental concept of HPLC calibration - establishing quantitative relationships between peak areas and analyte concentrations.
