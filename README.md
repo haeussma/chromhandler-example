@@ -49,7 +49,7 @@ The HPLC data are pre-integrated. Calibration runs and kinetic time-courses are 
 |-----------------------|--------------------------------------------------------------------------|
 | Calibration           | [`data/hplc/calibration/`](./data/hplc/calibration/)                     |
 | Time-course kinetics  | [`data/hplc/kinetics/`](./data/hplc/kinetics/)                           |
-| Initial conditions    | [`data/hplc/kinetics/init_conditions.csv`](./data/hplc/kinetics/init_conditions.csv)
+| Initial conditions    | [`data/hplc/init_conditions.csv`](./data/hplc/init_conditions.csv)-------|
 
 You can take a look inside to get a feel for the data.
 
